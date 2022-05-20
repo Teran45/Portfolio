@@ -1,4 +1,5 @@
-This ETL process converts data from DSV to Json. To accomplish this task, a script was written in python, which runs in Apache Airflow.
+# Convert CSV to Json
+This ETL process converts data from CSV to Json. To accomplish this task, a script was written in python, which runs in Apache Airflow.
 
 ![image](https://user-images.githubusercontent.com/89353523/169509156-f2c42efb-1767-4c14-9f12-690303bc2968.png)
 
